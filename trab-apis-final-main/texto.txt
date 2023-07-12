@@ -1,0 +1,53 @@
+- CLIENTES /clientes :
+{
+        "matricula": 1313,
+        "nome": "norton",
+        "telefone": "982739999"
+}
+
+{
+        "matricula": 06661,
+        "nome": "Irineu",
+        "telefone": "6969696969"
+}
+
+AUTORES /autores :
+{
+        "nome": "lui Kang",
+        "paisOrigem": "china"      
+}
+,
+{
+        "nome": "trump",
+        "paisOrigem": "eua"      
+}
+
+{
+        "nome": "Salazar",
+        "paisOrigem": "Mexico"      
+}
+
+
+LIVROS /livros :
+{
+        "isbn": 444,
+        "nome": "livro kamasutra raizes",
+        "autor": "eu mesmo",
+        "editora": "xandão",
+        "ano": 2023      
+}
+{
+        "isbn": 2169,
+        "nome": "livro kamasutra",
+        "autor": "Surfistinha",
+        "editora": "Brasil",
+        "anoPublicacao": 2002      
+}
+
+{
+        "isbn": 11111111,
+        "nome": "livro voce não sabe nem eu",
+        "autor": "Irineu",
+        "editora": "burrice",
+        "anoPublicacao": 2017      
+}   
